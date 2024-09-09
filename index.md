@@ -2,121 +2,64 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Hello, I'm CHANGEME
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Link to another page](./another-page.html).
+[Brief Introduction - Remove this afterwards]
 
-There should be whitespace between paragraphs.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Objective
+[Provide Objective - Remove this afterwards]]
 
-# Header 1
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-## Header 2
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Header 3
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-```js
-// Javascript code with syntax                highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require("./lang/" + l);
-  return true;
-};
-```
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-#### Header 4
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-- This is an unordered list following a header.
+## Projects
+- Detection Lab
+- SOC Automation Project
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-| :----------- | :---------------- | :---- |
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
----
-
-### Here is an unordered list:
-
-- Item foo
-- Item bar
-- Item baz
-- Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
