@@ -7,8 +7,9 @@ layout: default
 <a href="https://www.linkedin.com/in/henry-guerrero-duarte/
 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://github.com/HenryGuerreroDuarte">
-    <img src="https://img.shields.io/badge/-GitHub-00C853?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
+<!-- This is a comment -->
+<!-- <a href="https://github.com/HenryGuerreroDuarte">
+<img src="https://img.shields.io/badge/-GitHub-00C853?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a> -->
 
 With a strong inclination to solve problems, I focus on protecting people's privacy and ensuring their digital safety. My interest lies in investigating cyber crimes, uncovering hidden threats, and bringing clarity to complex situations.
 
