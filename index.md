@@ -55,10 +55,10 @@ My journey in Applied mathematics and the IT field has led me to develop a passi
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://drive.google.com/drive/folders/1zQMtHticbrpZ-SdegrWL3PZaGApRmhwT?usp=sharing">
+<!-- <a href="https://drive.google.com/drive/folders/1zQMtHticbrpZ-SdegrWL3PZaGApRmhwT?usp=sharing"> -->
     <img src="https://img.shields.io/badge/-CySA%2B-000000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CySA+ Badge" />
 
-<a href="https://drive.google.com/drive/folders/1zQMtHticbrpZ-SdegrWL3PZaGApRmhwT?usp=sharing">
+<!-- <a href="https://drive.google.com/drive/folders/1zQMtHticbrpZ-SdegrWL3PZaGApRmhwT?usp=sharing"> -->
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 
