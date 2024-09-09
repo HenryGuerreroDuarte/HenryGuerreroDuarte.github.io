@@ -8,14 +8,14 @@ layout: default
 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!-- This is a comment -->
-<!-- <a href="https://github.com/HenryGuerreroDuarte">
+
 <img src="https://img.shields.io/badge/-GitHub-00C853?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a> -->
 
-With a strong inclination to solve problems, I focus on protecting people's privacy and ensuring their digital safety. My interest lies in investigating cyber crimes, uncovering hidden threats, and bringing clarity to complex situations.
+    With a strong inclination to solve problems, I focus on protecting people's privacy and ensuring their digital safety. My interest lies in investigating cyber crimes, uncovering hidden threats, and bringing clarity to complex situations.
 
 ## Objective
 
-My journey in Applied mathematics and the IT field has led me to develop a passion for cybersecurity. I am eager to transition into this field, specifically to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+    My journey in Applied mathematics and the IT field has led me to develop a passion for cybersecurity. I am eager to transition into this field, specifically to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -53,15 +53,9 @@ My journey in Applied mathematics and the IT field has led me to develop a passi
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<!-- <a href="https://drive.google.com/drive/folders/1zQMtHticbrpZ-SdegrWL3PZaGApRmhwT?usp=sharing"> -->
     <img src="https://img.shields.io/badge/-CySA%2B-000000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CySA+ Badge" />
-
-<!-- <a href="https://drive.google.com/drive/folders/1zQMtHticbrpZ-SdegrWL3PZaGApRmhwT?usp=sharing"> -->
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-
 </div>
 
 ## Projects
