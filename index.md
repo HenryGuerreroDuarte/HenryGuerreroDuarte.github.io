@@ -16,7 +16,7 @@ With a strong inclination to solve problems, I focus on protecting people's priv
 My journey in Applied mathematics and the IT field has led me to develop a passion for cybersecurity. I am eager to transition into this field, specifically to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated projects. Make sure to hyperlink the project - Remove this afterward]]
+<!-- [Provide skills and associated projects. Make sure to hyperlink the project - Remove this afterward]] -->
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -28,7 +28,7 @@ My journey in Applied mathematics and the IT field has led me to develop a passi
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<!-- [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]] -->
 
 ### Network
 <div>
