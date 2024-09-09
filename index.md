@@ -2,14 +2,12 @@
 layout: default
 ---
 
+<!-- This is a comment -->
+
 # Hello, I'm Henry Guerrero-Duarte
 
 <a href="https://www.linkedin.com/in/henry-guerrero-duarte/
 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<!-- This is a comment -->
-
-<img src="https://img.shields.io/badge/-GitHub-00C853?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a> -->
 
     With a strong inclination to solve problems, I focus on protecting people's privacy and ensuring their digital safety. My interest lies in investigating cyber crimes, uncovering hidden threats, and bringing clarity to complex situations.
 
@@ -18,7 +16,7 @@ layout: default
     My journey in Applied mathematics and the IT field has led me to develop a passion for cybersecurity. I am eager to transition into this field, specifically to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+[Provide skills and associated projects. Make sure to hyperlink the project - Remove this afterward]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
