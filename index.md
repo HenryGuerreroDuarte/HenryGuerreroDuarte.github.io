@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Hello, I'm Henry Guerrero-Duarte
-<a href="[Henry Guerrero Duarte's LinkedIn](https://www.linkedin.com/in/henry-guerrero-duarte/)
+<a href="https://www.linkedin.com/in/henry-guerrero-duarte/
 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
