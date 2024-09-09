@@ -3,8 +3,12 @@ layout: default
 ---
 
 # Hello, I'm Henry Guerrero-Duarte
+
 <a href="https://www.linkedin.com/in/henry-guerrero-duarte/
 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://github.com/HenryGuerreroDuarte">
+    <img src="https://img.shields.io/badge/-GitHub-00C853?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
 
 With a strong inclination to solve problems, I focus on protecting people's privacy and ensuring their digital safety. My interest lies in investigating cyber crimes, uncovering hidden threats, and bringing clarity to complex situations.
 
@@ -50,11 +54,13 @@ My journey in Applied mathematics and the IT field has led me to develop a passi
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://drive.google.com/drive/folders/1zQMtHticbrpZ-SdegrWL3PZaGApRmhwT?usp=sharing">
+    <img src="https://img.shields.io/badge/-CySA%2B-000000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CySA+ Badge" />
+
+<a href="https://drive.google.com/drive/folders/1zQMtHticbrpZ-SdegrWL3PZaGApRmhwT?usp=sharing">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+
 </div>
 
 ## Projects
